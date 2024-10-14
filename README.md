@@ -1,8 +1,3 @@
-<img width=100% bottom=50px src="https://github.com/Isaque910/Isaque910/assets/131261876/9a2e1654-ac79-4f86-b082-a4de7c9560ae"/>
-
-<br>
-<br>
-
 ## Olá! Eu sou o Isaque
   
 <div text align="center">
